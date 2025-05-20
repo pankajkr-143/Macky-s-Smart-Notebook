@@ -1,0 +1,4 @@
+Pillow==10.2.0
+tkcalendar==1.6.1
+pyttsx3==2.90
+tkPDFViewer==0.1 
